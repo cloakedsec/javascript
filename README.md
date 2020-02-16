@@ -1,4 +1,11 @@
 ## Dev Setup ##
+## For License info https://github.com/cloakedsec/javascript/commit/58e42ef4594ca606638b72a2d2c0fcd0f1cfdffb#diff-04c6e90faac2675aa89e2176d2eec7d8 ##
+
+
+
+Installation Instructions:
+
+
 
 1 - Clone the repo from https://git@github.com:cloakedsec/javascript.git
 2 - Open the command prompt and CD into the JAVASCRIPT folder.
